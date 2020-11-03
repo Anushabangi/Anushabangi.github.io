@@ -585,6 +585,14 @@ pre code {
   .skillname{
     font-size:10px;
   }
+  .btn-floating.btn-large {
+    width: 35px!important;
+    height: 37px!important;
+    padding: 0!important;
+}
+.btn-floating.btn-large{
+  line-height:39px!important
+}
 }
 @media screen and (max-width: 430px) {
   .skillname{
